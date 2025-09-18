@@ -33,4 +33,20 @@
 
 ## Relaciones
 
-* 
+Usuario → Cliente/Vendedor permite que una persona sea ambas cosas.
+
+Variante + PriceHistory + Stock soporta inventario multi-almacén y auditoría de precios.
+
+Pedido → Items → Envíos maneja divisiones de envíos por almacén o disponibilidad.
+
+Pagos y Reembolsos soportan múltiples intentos y reembolsos parciales.
+
+Devoluciones a nivel de línea, con nota de crédito/reembolso.
+
+Promociones flexibles: aplicables a productos, categorías, vendedores o pedidos.
+
+Auditoría para trazabilidad de pedidos, stock y acciones críticas.
+
+## Diagrama
+
+https://dbdiagram.io/d/68cbff1b5779bb7265183cfc
