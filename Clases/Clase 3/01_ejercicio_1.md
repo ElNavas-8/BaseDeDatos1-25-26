@@ -14,12 +14,19 @@
 ## Relaciones clave:
 
 Evento 1..N Sesiones
+
 Sesión 1..N TiposTicket
+
 TipoTicket 1..N Tickets
+
 Ticket 1..1 Check-in
+
 Ticket 0..N Reembolsos
+
 Evento/Sesión ↔ Reseñas
+
 Promocodes aplicables a sesión o tipo de ticket
 
-Diagrama
+## Diagrama
+
 https://dbdiagram.io/d/BD1-68cbfdfa5779bb726517f9cc
