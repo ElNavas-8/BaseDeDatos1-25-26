@@ -18,6 +18,7 @@
 
 ## Entidades
 
+* Usuario
 * Vendedor
 * Producto
 * Cliente
@@ -30,6 +31,7 @@
 * Reglas de negocio
 * Logs
 * Estadistica
+* Variante
 
 ## Relaciones
 
