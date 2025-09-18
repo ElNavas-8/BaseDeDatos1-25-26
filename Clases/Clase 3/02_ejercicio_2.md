@@ -16,3 +16,21 @@
 14. Registro de ​**logs de auditoría**​: quién creó/actualizó pedidos, cambios de stock críticos.
 15. **Reportes** frecuentes: ventas por día/region/vendedor, productos sin stock, pedidos pendientes de pago.
 
+## Entidades
+
+* Vendedor
+* Producto
+* Cliente
+* Almacen
+* Pedido
+* Pagos
+* Devoluciones
+* Promociones
+* Reseña
+* Reglas de negocio
+* Logs
+* Estadistica
+
+## Relaciones
+
+* 
